@@ -1,2 +1,2 @@
-# Personal-Websit
+# Personal-Website
 simple website demo
